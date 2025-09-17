@@ -1,0 +1,63 @@
+﻿@font-face {
+	font-family:     zweiterFont;
+	src:             url(Bradley-Hand-ITC.ttf);
+	}
+
+img	{border-radius:  7px;}
+
+body 	{margin:         3px;}
+
+ul	{
+	list-style-type: none;
+	margin:          10px;
+	padding:         0;
+	width:           22%;
+	background-color:#f1f1f1;
+	position:        fixed;
+	height:          100%;
+	overflow:        auto;
+	}
+
+li a    {
+	display:	 block;
+	color: 		 #000;
+	padding: 	 0 0 0 0;
+	text-decoration: none;
+	}
+
+li a.active {
+	background-color:#4CAF50;
+	color:		 white;
+	}
+
+li a:hover:not(.active){
+	background-color:#555;
+	color:		 white;
+	}
+
+P	{text-align:	 justify;}
+
+h2	{font-size: 	 150%;}
+
+h3	{font-size: 	 120%;}
+
+div.FN	{font-size: 	 85%;}
+
+div.Titel {
+	background-image:   url("Welt.2.jpg");
+	background-repeat:  no-repeat;
+    	background-position:left top;
+´	padding-right:	    0 cm;
+
+	font-family: 	 zweiterFont;
+	text-align:	 left;
+	white-space: 	 nowrap;
+	font-style:	 italic;
+	font-weight:	 bold;
+	}
+
+p.ex1	{font-size:	 25px;}
+
+p.ex2 	{font-size:	 45px;color: green;}
+
+p.ex3 	{font-size: 	 45px;}

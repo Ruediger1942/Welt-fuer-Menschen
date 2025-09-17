@@ -1,0 +1,121 @@
+﻿//	Version 11.6.000
+@font-face{font-family:zweiterFont;src: url(Bradley-Hand-ITC.ttf);}
+
+@font-face{font-family:dritterFont;src: url(Papyrus.ttf);}
+
+@font-face{font-family:vierterFont;src: url(ERASMD.ttf);}
+
+img 	{border-radius: 7px}
+
+body	{margin: 	25px}
+
+P 	{text-align: 	justify				}
+
+p.rechts{text-align: 	right				}
+
+p.FN 	{text-align: 	justify				}
+
+p.VS 	{font-size: 	90%				}
+
+p.Titel	{text-align: 	left;
+	font-size: 	300%;
+	font-family: 	Nyala;
+//	color:		#C02020;
+	color:		#606060;
+//	text-shadow: 	2px 2px #808080;
+							}
+
+p.uTit	{text-align: 	center;
+	font-size: 	120%; 
+	font-family:	serif				}
+
+p.Tit1	{text-align: 	center;
+	font-size: 	350%; 
+//	font-family: 	Gabriola;			}
+	font-family: 	zweiterFont;			}
+
+p.Tit2	{text-align: 	center;
+	font-size: 	200%; 
+	font-family: 	Gabriola;			}
+
+p.Tit3	{text-align: 	center;
+	font-size: 	275%; 
+	font-family: 	Nyala; 
+	color:		#808080;
+	margin-bottom:	0cm				}
+
+p.Tit4	{text-align: 	left;
+	font-size: 	200%; 
+	font-family: 	Nyala; 
+	color:		#808080;
+	margin-bottom:	0cm;				}
+
+p.An	{font-size: 	90%;				}
+
+p.TitAn	{font-size: 	180%;				}
+
+p.obunt {text-align: 	center;
+	font-size: 	200%; 
+	font-family: 	dritterFont;
+    	border-style: 	double;
+   	border-color: 	#000000 #ffffff #000000 #ffffff;}
+
+p.Text3 {font-family: 	Gabriola;	    
+	font-size: 	140%; 
+//	font-family: 	dritterFont;	    
+//	font-weight:	bold;
+    	line-height: 	1.2;
+							}
+
+p.Text4 {
+//	font-family: 	vierterFont;
+	font-size: 	110%; 
+    	line-height: 	1.2;
+	font-family: 	serif;		}
+
+p.Text5 {font-family: 	"Segoe Print";	
+//	font-size: 	90%;	
+	font-weight:	bold;				}
+
+p.double{border-style:	double;				}
+
+#p01	{font-size: 	20px;				}
+
+#p02	{font-size:	180%				}
+
+div.RK	{text-align: 	justify;
+	font-size: 	300%; 
+	font-family: 	"Comic Sans MS";		}
+
+div.An	{font-size: 	85%;				}
+
+#div01	{text-align: 	justify;
+	font-size: 	120%; 
+	font-family: 	Almendra;			}
+
+#dComic	{text-align: 	justify; 
+	font-family: 	"Comic Sans MS";		}
+
+h1	{font-family: 	Gabriola; 
+	font-size:	50%; 
+	color:		#FFFFFF;			}
+
+h2	{font-family:	Gabriola; 
+	font-size:	50%; 
+	color:		#FFFFFF;			}
+
+h3	{font-size: 130%;}
+
+div.Titel 						{
+	font-family: 	zweiterFont;
+	text-align: 	left;
+	font-size: 	250%;				}
+
+div.Titel2 						{
+	font-family: 	dritterFont;
+	text-align: 	left;
+	font-size: 	250%;				}
+
+div.Text4 						{
+	font-family: 	vierterFont;
+	text-align: 	left;				}
